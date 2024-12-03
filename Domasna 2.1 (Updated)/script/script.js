@@ -14,7 +14,7 @@ console.log(`New value of this number is increament by 1 and now is ${aNummber}`
 let triangleHeight = 5;
 let triangleBase = 4;
 let areaFormula = (triangleHeight*triangleBase)/2;
-console.log(`Area of triangle with ${triangleHeight}cm height and ${4}cm base is ${areaFormula}cm2`);
+console.log(`Area of triangle with ${triangleHeight}cm height and ${triangleBase}cm base is ${areaFormula}cm2`);
 
 //homework 2.1.5
 let lenghtValue = 5;
